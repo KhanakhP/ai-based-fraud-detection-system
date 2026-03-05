@@ -109,19 +109,6 @@ The application outputs:
 * Recommended action
 * Risk visualization
 
----
-
-## Project Structure
-
-```
-fraud-detection-project
-│
-├── Fraud_Detection.ipynb
-├── synthetic_fraud_dataset.csv
-├── fraud_model.pkl
-├── streamlit_app.p
-└── README.md
-```
 
 ---
 
