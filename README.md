@@ -108,7 +108,9 @@ The application outputs:
 * Fraud probability score
 * Recommended action
 * Risk visualization
+## Demo
 
+![Streamlit Demo](images/streamlit_demo.png)
 
 ---
 
